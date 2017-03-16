@@ -1,4 +1,4 @@
-<?php
+﻿<?php
     header('Content-type:text/xml');
     echo '<?xml version="1.0"  encoding="utf-8" ?>';
     echo '<计算机图书>';
@@ -8,4 +8,5 @@
     echo '<出版日期>2008-5-5</出版日期>';
     echo '</PHP>';
     echo '</计算机图书>';
+    echo '</计算机图书22222>';
 
